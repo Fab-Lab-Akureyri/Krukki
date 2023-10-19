@@ -4,6 +4,14 @@
 
 Við ætlum að gera tilraun með að slípa 3D prentuð verk, til fá á þau fallega áferð. 
 
+## *2023.10.19* - Uppfærsla
+
+| ![Krukki](myndir/krukki.jpg) | 
+|:--:| 
+| *Krukki* |
+
+*Video > [Krukki 24 tíma keyrsla](myndir/krukki.mkv)*
+
 ## Fusion 360 hönnun
 
 TODO: Hlekkur
