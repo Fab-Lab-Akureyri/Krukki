@@ -10,7 +10,7 @@ Við ætlum að gera tilraun með að slípa 3D prentuð verk, til fá á þau f
 |:--:| 
 | *Krukki* |
 
-*Video > [Krukki 24 tíma keyrsla](myndir/krukki.mkv)*
+*Video > [Krukki 24 tíma keyrsla](https://github.com/Fab-Lab-Akureyri/Krukki/raw/main/myndir/krukki.mkv)*
 
 ## Fusion 360 hönnun
 
